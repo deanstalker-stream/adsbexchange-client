@@ -1,5 +1,7 @@
 # adsbexchange-client
 
+[![Lint](https://github.com/deanstalker-stream/adsbexchange-client/actions/workflows/lint.yml/badge.svg)](https://github.com/deanstalker-stream/adsbexchange-client/actions/workflows/lint.yml) [![Test](https://github.com/deanstalker-stream/adsbexchange-client/actions/workflows/test.yml/badge.svg)](https://github.com/deanstalker-stream/adsbexchange-client/actions/workflows/test.yml) 
+
 Provides a client for the Community API provided by ADSB Exchange. This will not work for their Commercial API.
 
 https://rapidapi.com/adsbx/api/adsbexchange-com1
